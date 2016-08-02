@@ -55,7 +55,7 @@ var routes = require('!!path-to-regexp-loader!./routes.json');
 ### Related Projects
 
 * [React App SDK](https://github.com/kriasoft/react-app)
-* [React Static Boilerplate](https://github.com/kriasoft/react-app-boilerplate)
+* [React Static Boilerplate](https://github.com/kriasoft/react-static-boilerplate)
 
 ### License
 
