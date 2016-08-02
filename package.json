@@ -1,0 +1,22 @@
+{
+  "name": "path-to-regexp-loader",
+  "version": "0.1.0",
+  "description": "Routes loader module for Webpack. Converts path strings into regular expressions.",
+  "repository": "koistya/path-to-regexp-loader",
+  "author": "Konstantin Tarkus <hello@tarkus.me> (https://tarkus.me)",
+  "license": "MIT",
+  "keywords": [
+    "webpack",
+    "loader",
+    "webpack-loader",
+    "webpack loader",
+    "route",
+    "routes",
+    "regexp",
+    "pattern"
+  ],
+  "main": "./index.js",
+  "dependencies": {
+    "path-to-regexp": "^1.5.3"
+  }
+}
